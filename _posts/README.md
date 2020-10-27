@@ -8,4 +8,4 @@
 
 先这么着吧
 
-![image-20201025221340494](https://gitee.com/tai-xiaopeng/image/raw/master/img/java/image-20201025221340494.png)
+![image-20201025221340494](https://gitee.com/tai-xiaopeng/image/raw/master//image/java/image-20201025221340494.png)
